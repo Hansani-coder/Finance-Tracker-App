@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF6B7280</color> <!-- Neutral gray for borders/dividers -->
+
+    <!-- Primary Color (60%) -->
+    <color name="colorPrimary">#D1FAE5</color> <!-- Soft emerald green, calming and modern -->
+
+    <!-- Secondary Color (30%) -->
+    <color name="colorSecondary">#34D399</color> <!-- Vibrant green for buttons/highlights -->
+
+    <!-- Accent Color (10%) -->
+    <color name="colorAccent">#047857</color> <!-- Deep green for emphasis -->
+
+    <!-- Variants for Depth -->
+    <color name="colorPrimaryDark">#A7F3D0</color> <!-- Slightly darker for status bars -->
+    <color name="colorSecondaryDark">#10B981</color> <!-- Darker secondary for hover effects -->
+    <color name="colorAccentDark">#065F46</color> <!-- Darker accent for contrast -->
+
+    <!-- Background and Surface Colors -->
+    <color name="backgroundColor">#F9FAFB</color> <!-- Off-white for clean background -->
+    <color name="surfaceColor">#FFFFFF</color> <!-- White for cards/elevated surfaces -->
+    <color name="cardBackground">#FFFFFF</color> <!-- White for cards -->
+    <color name="inputBorder">#D1D5DB</color> <!-- Subtle gray for form fields -->
+
+    <!-- Semantic Colors -->
+    <color name="income_green">#10B981</color> <!-- Green for positive indicators -->
+    <color name="expense_red">#EF4444</color> <!-- Red for negative indicators -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#111827</color> <!-- Dark gray for primary text -->
+    <color name="textOnPrimary">#FFFFFF</color> <!-- White for text on primary color -->
+    <color name="textOnSecondary">#FFFFFF</color> <!-- White for text on secondary color -->
+    <color name="textOnSurface">#111827</color> <!-- Dark gray for text on surfaces -->
+</resources>
